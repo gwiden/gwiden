@@ -6,7 +6,7 @@ I am currently learning C #, Unity and other supporting tools for making small g
 
 #### Tools, Languages and Plarforms:
 
-* ![Header](https://github.com/gwiden/gwiden/blob/main/assets/C#.png)
+* ![Header](https://github.com/gwiden/gwiden/blob/main/assets/C%23.png)
 * ![Header](https://github.com/gwiden/gwiden/blob/main/assets/Unity.png)
 * ![Header](https://github.com/gwiden/gwiden/blob/main/assets/psvita.png)
 * ![Header](https://github.com/gwiden/gwiden/blob/main/assets/android.png)
