@@ -1,3 +1,3 @@
-[![Header](https://github.com/gwiden/gwiden/blob/main/assets/c75s13dfpa.png)](https://mynickname.com/gwiden)
+[![Header](https://github.com/gwiden/gwiden/blob/main/assets/gwiden.png)](https://mynickname.com/gwiden)
 
 About Me
