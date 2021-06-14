@@ -1,5 +1,5 @@
 [![Header](https://sun9-9.userapi.com/impg/-zxLWI-2xxFiNTDQtj2DQmkqKLb5__rNHF2tRA/joBcJsJ7ij8.jpg?size=200x50&quality=96&sign=eddd929bfc26c07f94cd125708d594d8&type=album)](https://mynickname.com/gwiden)
-## Hi my name Denis
+## Hi, my name Denis
 
 I'm a fan of PS Vita and Unity. Currently learning C #, Unity and other supporting tools for making small games
 
