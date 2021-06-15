@@ -3,7 +3,7 @@
 
 I'm a fan of PS Vita and Unity. Currently learning C#, Unity and other supporting tools for making small games
 
-#### Tools, Languages and Plarforms:
+### Tools, Languages and Plarforms:
 
 * [![Header](https://github.com/gwiden/gwiden/blob/main/assets/CS.png)](https://github.com/gwiden)
 * [![Header](https://github.com/gwiden/gwiden/blob/main/assets/Unity.png)](https://github.com/gwiden)
