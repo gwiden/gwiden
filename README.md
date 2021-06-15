@@ -5,7 +5,7 @@ I'm a fan of PS Vita and Unity. Currently learning C#, Unity and other supportin
 
 #### Tools, Languages and Plarforms:
 
-* [![Header](https://github.com/gwiden/gwiden/blob/main/assets/C%23.png)](https://github.com/gwiden)
+* [![Header](https://github.com/gwiden/gwiden/blob/main/assets/CS.png)](https://github.com/gwiden)
 * [![Header](https://github.com/gwiden/gwiden/blob/main/assets/Unity.png)](https://github.com/gwiden)
 * [![Header](https://github.com/gwiden/gwiden/blob/main/assets/psvita.png)](https://github.com/gwiden)
 * [![Header](https://github.com/gwiden/gwiden/blob/main/assets/android.png)](https://github.com/gwiden)
